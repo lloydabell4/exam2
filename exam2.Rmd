@@ -1,0 +1,59 @@
+---
+title: "exam2"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Exam 2 Instructions
+
+This exam is open everything except internet search engines. 
+
+You’ll have 3 hours (unless you’ve given me an accommodation) to complete the exam once started. It will be available between December 6th and December 10th at 11:59 am. 
+
+The exam is designed to assess how you can effectively analysis and visualize data. This is your chance to demonstrate the extent of your data analysis and visualizations skills and knowledge.
+
+I recommend that you do all your work on the provided exam2.RMD file in RStudio Workbench (link to Git project) and copy / paste your final code into Blackboard. 
+
+Be sure to use the comment functionality as much as you can. You can pass this exam even if your code doesn’t run but I’ll need to understand your rationale for partial points. 
+
+Good Luck!
+
+## First Assignment in the Dr. Amazing Lab
+
+Congratulations you’ve been accepted to graduate school at Great State University in the lab of Dr. Amazing. Go GSU!
+
+As part of Dr. Amazing’s lab, you’ll be studying the relationship between nutrition and exercise. In her lab, nutrition is typically measured by caloric intake and exercise is measured by the number of minutes someone exercised. 
+
+Dr. Amazing wants you to analyze some recently collected data on the role that intense 1-week “bootcamp style” exercise routines has on nutrition and exercise. Each subject was asked to report their daily caloric intake and exercise habits on:
+- The Friday prior to starting an exercise routine (before)
+- The Friday of their first week of the exercise routine (during)
+- The Friday after the conclusion of their exercise routine (after)
+
+She is particularly interested in understanding whether geographic location (either state and region) has a role on caloric intake and/or exercise. 
+
+Use the R language to explore the two relational datasets (states_behavior & states_info) and prepare at least two visualizations that demonstrates your ability to effectively analyze and visualize the data. 
+
+```{r Explore Data}
+library(tidyverse)
+
+```
+
+```{r Visualization 1}
+
+
+```
+
+```{r Visualization 2}
+
+
+```
+
+##Bonus: (10 pts) - Determine whether geographic location and/or trial (before, during, after) has a significant impact on caloric intake or exercise habits. 
+
+```{r Statistical Test}
+
+
+```

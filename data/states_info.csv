@@ -1,0 +1,51 @@
+﻿State,Abbreviation,State_ID
+Alabama,AL,1
+Arkansas,AR,2
+Florida,FL,3
+Georgia,GA,4
+Louisiana,LA,5
+North Carolina,NC,6
+South Carolina,SC,7
+Mississippi,MS,8
+Virginia,VA,9
+West Virginia,WV,10
+Alaska,AK,11
+Arizona,AZ,12
+California,CA,13
+Colorado,CO,14
+Connecticut,CT,15
+Delaware,DE,16
+Hawaii,HI,17
+Idaho,ID,18
+Illinois,IL,19
+Indiana,IN,20
+Iowa,IA,21
+Kansas,KS,22
+Kentucky,KY,23
+Maine,ME,24
+Montana,MT,25
+Nebraska,NE,26
+Nevada,NV,27
+New Hampshire,NH,28
+New Jersey,NJ,29
+New Mexico,NM,30
+New York,NY,31
+North Dakota,ND,32
+Ohio,OH,33
+Oklahoma,OK,34
+Oregon,OR,35
+Maryland,MD,36
+Massachusetts,MA,37
+Michigan,MI,38
+Minnesota,MN,39
+Missouri,MO,40
+Pennsylvania,PA,41
+Rhode Island,RI,42
+South Dakota,SD,43
+Tennessee,TN,44
+Texas,TX,45
+Utah,UT,46
+Vermont,VT,47
+Washington,WA,48
+Wisconsin,WI,49
+Wyoming,WY,50
